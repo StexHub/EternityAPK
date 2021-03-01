@@ -1,5 +1,5 @@
 # EternityAPK
-.Eternity's skidded Android save.dat Stealer for growtopia, merely unpacked so expect errors.  <br />
+.Eternity's skidded Android save.dat Stealer for growtopia, merely decompiled so expect errors.  <br />
 Use a Java decompiler like JD Decompiler or JD GUI to view source code, as I said; this is SKIDDED and completely worthless.  <br />
 Main Code is in com/eternity/savedatagg  <br />
 
